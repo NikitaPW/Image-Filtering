@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Custom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <points>
+    <Point>
+      <X>0</X>
+      <Y>210</Y>
+    </Point>
+    <Point>
+      <X>214</X>
+      <Y>2</Y>
+    </Point>
+    <Point>
+      <X>256</X>
+      <Y>2</Y>
+    </Point>
+  </points>
+  <FileName>BrightnessCorrection</FileName>
+</Custom>

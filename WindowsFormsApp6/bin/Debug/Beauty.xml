@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Custom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <points>
+    <Point>
+      <X>0</X>
+      <Y>0</Y>
+    </Point>
+    <Point>
+      <X>80</X>
+      <Y>150</Y>
+    </Point>
+    <Point>
+      <X>96</X>
+      <Y>48</Y>
+    </Point>
+    <Point>
+      <X>157</X>
+      <Y>226</Y>
+    </Point>
+    <Point>
+      <X>209</X>
+      <Y>91</Y>
+    </Point>
+    <Point>
+      <X>256</X>
+      <Y>256</Y>
+    </Point>
+  </points>
+  <FileName>Beauty</FileName>
+</Custom>
